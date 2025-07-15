@@ -77,7 +77,10 @@ cd Job-Hiring-Application
 
 ### 2. Run Backend (Server)
 cd server
+
 npm install
+
+
 npm start
 Server runs at: http://localhost:5000
 
@@ -85,8 +88,11 @@ Server runs at: http://localhost:5000
 In a new terminal:
 
 cd client
+
 npm install
+
 npm run dev
+
 Frontend runs at: http://localhost:5173
 
 ---
